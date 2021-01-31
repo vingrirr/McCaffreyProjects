@@ -1,0 +1,6 @@
+C:\Code\GaussianCluster_GMM_C#\GMM\GMM\bin\Debug\GMM.exe.config
+C:\Code\GaussianCluster_GMM_C#\GMM\GMM\bin\Debug\GMM.exe
+C:\Code\GaussianCluster_GMM_C#\GMM\GMM\bin\Debug\GMM.pdb
+C:\Code\GaussianCluster_GMM_C#\GMM\GMM\obj\Debug\GMM.csprojResolveAssemblyReference.cache
+C:\Code\GaussianCluster_GMM_C#\GMM\GMM\obj\Debug\GMM.exe
+C:\Code\GaussianCluster_GMM_C#\GMM\GMM\obj\Debug\GMM.pdb
