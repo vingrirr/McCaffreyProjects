@@ -7,14 +7,14 @@ namespace LogisticKernel
     {
       Console.WriteLine("\nBegin kernel logistic regression using C# demo \n");
       //github comment test
-      //another test
+      
       //double[] v1 = new double[] { .5, .7 };
       //double[] v2 = new double[] { .8, .2 };
       //double k = Kernel(v1, v2, 0.25);
       //Console.WriteLine(k);
       //Console.ReadLine();
 
-
+      Console.WriteLine("Github test");
       Console.WriteLine("Loading training data into memory");
       Console.WriteLine("training [0] =  (0.2, 0.3) -> 0");
       Console.WriteLine("training [1] =  (0.1, 0.5) -> 0");
